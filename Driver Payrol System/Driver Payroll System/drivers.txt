@@ -1,0 +1,10 @@
+D001 LAnderson 1.50
+D002 SBennett 1.00
+D003 NCarter 1.00
+D004 ODavis 1.25
+D005 EFoster 2.50
+D006 MHarrison 2.0
+D007 LParker 1.75
+D008 AThompson 1.45
+D009 MWilson 1.80
+D010 JEdwards 0.75
